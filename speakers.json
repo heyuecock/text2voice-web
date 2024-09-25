@@ -47,7 +47,7 @@
         }
     },
     "lobe-api": {
-        "url": "https://comfortable-shark-61.deno.dev/",
+        "url": "https://comfortable-shark-61.deno.dev/v1/audio/speech",
         "speakers": {
             "zh-HK-HiuGaaiNeural": "HiuGaai-中文（粤语）",
             "zh-HK-HiuMaanNeural": "HiuMaan-中文（粤语）",
